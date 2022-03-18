@@ -1,0 +1,200 @@
+body{
+    margin:0;
+    padding:0;
+}
+.navbar{
+    padding:20px 0;
+    box-shadow: 19px 19px 30px grey;
+    height: 20%;
+}
+.links{
+    margin-left: 70%;
+    font-size: 20px;
+
+    
+
+}
+.logo{
+    font-size: 36px;
+    margin-left: 40px;
+    font-family: 'Segoe UI' ;
+}
+.links a{
+    font-size: 28px;
+    text-decoration: none;
+    color:black;
+    padding-left:20px;
+}
+.br{
+    background:url('architect.jpg');
+    background-size:cover;
+    width:100%;
+    position:relative;
+    z-index: -1;
+    height:1300px;
+    
+}
+
+.horiz h2{
+    margin-left: 90px;
+}
+ .hr1{
+    width:91.7%;
+    margin-left: 90px;
+    height: 3px;
+    background-color:grey;
+    border-color: none;
+}
+.projects {
+    display:flex;
+    margin-left: 60px;
+    margin-top: 2px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.hr2{
+    width:93%;
+    margin-left: 60px;
+    height: 3px;
+    background-color:rgb(170, 166, 166);
+}
+
+.ligne{
+    display:flex;
+    justify-content: space-between;
+    
+}
+
+
+.house1{
+    margin-left: 30px;
+}
+.top-left  {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    
+  }
+  p{
+      font-size: 20px;
+      font-weight: solid;
+  }
+  .contact-card{
+    text-align: center;
+    width:400px;
+    padding-left: 50px;
+  
+}
+ .contact-card img{
+ width:500px
+
+ }
+.contact-name,.job-description{
+    font-size:28px;
+    font-family: Verdana;
+}
+.contact-name{
+    color:black;
+    font-weight: bold;
+}
+.job-description{
+    color:grey;
+    font-weight: lighter;
+}
+.formulaire{
+    margin-top:2px;
+    margin-left: 40px;
+}
+.map img{
+    width:2200px;
+    margin:auto;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.button{
+    background-color: black;
+    margin-left: 40px;
+    font-size: 30px;
+    color:aliceblue;
+    font-family:'Courier New', Courier, monospace;
+    box-shadow: 6px 6px 6px grey;
+}
+input,textarea{
+    font-size: 25px;
+    margin-top: 8px;
+    width:2200px;
+    padding-right: 3px;
+}
+
+
+.ab{
+
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.horiz2 h2{
+padding-left:40px;
+font-family: Courier ;
+font-size: 30px;
+}
+.hr3{
+    width:2200px;
+    margin-left: 40px;
+    height: 3px;
+    background-color:rgb(170, 166, 166);
+    padding-right: 3px;  
+}
+.para{
+    padding-left:40px;
+    font-size:25px
+}
+.horiz{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+  .divcontainer {
+    position: relative;
+    text-align:center;
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;  
+}
+  .top-left {
+    position: absolute;
+    top: 14px;
+    left: 120px;
+    font-size: 25px;
+    transform: translate(-50%, -50%);
+    background-color: black;
+  }
+  .br-architect{
+  text-align: center;
+  top:400px;
+  padding-top: 25%;
+  
+  }
+  .br-box{
+  color:white;
+  background: black;
+  font-size:50px;
+  font-family: 'Segoe UI' ;
+  
+  font-weight: bold;
+  
+  }
+  .architect-text{
+font-size:48px;
+font-family: 'Segoe UI' ;
+color:white
+
+  }
+  
+  .button1{
+      width:100%;
+      color:white;
+      background-color: black;
+  }
+  .description{
+      text-align:left;
+  }
